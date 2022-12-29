@@ -1,0 +1,7 @@
+{
+  "name": "memorisee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
